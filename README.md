@@ -1,2 +1,2 @@
 # Turisana
-pagina de turismo en Santa Ana, Guatica ,Risaralda;
+pagina de turismo sobre Risaralda/Guatica/Santa Ana;
